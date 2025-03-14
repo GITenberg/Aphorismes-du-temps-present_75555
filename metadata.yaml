@@ -1,0 +1,35 @@
+_repo: Aphorismes-du-temps-present_75555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    aliases:
+    - Bon, Gustave Le
+    - Bon, Gustave le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Le_Bon
+    - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75555'
+language: fr
+pgterms:marc904: https://polona.pl/preview/deeea0ce-9f87-4226-9ace-4009626049fb
+pgterms:marc905: 20250304120911lebon
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bFlammarion, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aphorismes du temps présent
+url: http://www.gutenberg.org/ebooks/75555
